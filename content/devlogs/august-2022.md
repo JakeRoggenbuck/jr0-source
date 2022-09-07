@@ -11,7 +11,7 @@ I just finished a month of work at Lucid Automation. I have been working with Go
 In this month, I also did two hackathons, Plant Here and Future Fire Finder.
 
 ### 1. Plant Here 🌿
-The first was a project called Plant here. Its goal is to help with food insecuritis by finding the best places on a map to plant certain types of food, ones with the correct amount of rain and soil pH.
+The first was a project called Plant here. Its goal is to help with food insecurities by finding the best places on a map to plant certain types of food, ones with the correct amount of rain and soil pH.
 
 ![Plant Here](https://raw.githubusercontent.com/JakeRoggenbuck/ASDI-Global-Hackathon/master/resources/Landing.png)
 
